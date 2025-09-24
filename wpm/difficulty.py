@@ -11,7 +11,7 @@ The quotes database is *not* covered by the AGPL!
 import gzip
 import pickle
 
-import pkg_resources
+import importlib.resources
 
 class Difficulty(object):
     """Loads difficulty scores."""
@@ -19,8 +19,7 @@ class Difficulty(object):
     @staticmethod
     def _filename():
         """Returns the filename of the packaged difficulty database."""
-        return pkg_resources.resource_filename("wpm",
-                                               "data/difficulty.pickle.gz")
+        return importlib.resources.files("wpm").joinpath("data/difficulty.pickle.gz")
 
     @staticmethod
     def _normalize(diffs):
