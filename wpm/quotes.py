@@ -20,7 +20,7 @@ import os
 import random
 import sys
 
-import pkg_resources
+import importlib.resources
 
 from wpm.error import WpmError
 
@@ -163,7 +163,7 @@ class Quotes(object):
     @staticmethod
     def _database_filename():
         """Returns the filename of the packaged database."""
-        return pkg_resources.resource_filename("wpm", "data/examples.json.gz")
+        return importlib.resources.files("wpm").joinpath("data/examples.json.gz")
 
     @staticmethod
     def load_json(filename=None):
