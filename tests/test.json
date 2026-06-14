@@ -1,7 +1,62 @@
 [
   {
-    "author": "Mr. Author",
-    "title": "The Title",
-    "text": "This is the text."
+    "author": "Author Name",
+    "title": "Title of Work",
+    "text": "The text to type here ...",
+    "id": false
+  },
+  {
+    "author": "Neal Stephenson",
+    "title": "Azogue",
+    "text": "Lo que un reloj es al tiempo, el ordenador es al pensamiento",
+    "id": false
+  },
+  {
+    "author": "Neal Stephenson",
+    "title": "Azogue",
+    "text": "Supongamos que el número tres representa un pollo y el número doce los anillos de Saturno... ¿qué es entonces tres por doce?",
+    "id": false
+  },
+  {
+    "author": "Fiodr Dostoyevsky",
+    "title": "Los hermanos Karamazov",
+    "text": "Dios sólo nos ha dado enigmas",
+    "id": false
+  },
+  {
+    "author": "Fiodr Dostoyevsky",
+    "title": "Los hermanos Karamazov",
+    "text": "Es una cuestión del alma, psicológica. Para rehacer el mundo es necesario que la gente tome, psicológicamente, otro camino.",
+    "id": false
+  },
+  {
+    "author": "H.A. Murena",
+    "title": "La metáfora y lo sagrado",
+    "text": "Ser fundamentalmente ausencia, ser ausencia, es cosa que aterra a los hombres. Cada cual, tarde o temprano, una o muchas veces, tiene con intensidad diversa, a través de experiencias dramáticas o de nimiedades, esa percepción irremisiblemente dramática. Eso exige una decisión. Por lo general, los más ceden a los consejos del miedo. Ante la sospecha de la irrealidad, optan por adquirir la pétrea condición de convertirse en mundo, materia a la que no redimen: Deciden que ellos son ellos, tal es el hombre “material”, que se toma a sí mismo sólo como un animal que nace y muere. Esta mirada rechaza el misterio que encierran nacer y morir y de ese modo se ciega a todo prodigio. En una criatura esencialmente metafórica, esa mirada, que significa asesinato de lo Otro, del más allá, de la metáfora, es claramento suicidio. Existe sin embargo otra posibilidad. (…) Si reconocemos no saber en definitiva qué es aquel amor que nos conmueve, qué es esa desdicha que nos estremece, qué es ese encuentro en apariencia fortuito con alguien que estaba lejano, qué es esa riqueza o pobreza que de improviso nos alarga la fortuna, no estamos simplemente renunciando a un saber: además estamos adquiriendo otro. Conquistamos el saber de saber que cada acontecimiento de nuestras vidas significa además otra cosa, distinta de la que suponemos, compone otra figura, la figura de nuestro destino. Es lo ultramundano de nuestras vidas, lo que las duplica, las hace tal como deben ser para criaturas que estén aquí pero además han sido traídas de allá.",
+    "id": false
+  },
+  {
+    "author": "",
+    "title": "",
+    "text": "",
+    "id": false
+  },
+  {
+    "author": "",
+    "title": "",
+    "text": "",
+    "id": false
+  },
+  {
+    "author": "",
+    "title": "",
+    "text": "",
+    "id": false
+  },
+  {
+    "author": "",
+    "title": "",
+    "text": "",
+    "id": false
   }
 ]
